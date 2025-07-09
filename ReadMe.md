@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Fron-end<br>Estou a procura de um estagio<br>Meu foco é evoluir sempre na área de programação<br>
+Sou um programador Back-end<br>Estou a procura de um estagio<br>Meu foco é evoluir sempre na área de programação<br>
 
 
 ## 🌐 Socials:
